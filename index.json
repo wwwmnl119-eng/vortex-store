@@ -1,0 +1,18 @@
+{
+  "name": "Vortex Store",
+  "apps": [
+    {
+      "package": "site.vortexvpn.vortex",
+      "name": "Vortex",
+      "summary": "Мессенджер Vortex",
+      "description": "Переписка, звонки и каналы. Работает через ваш собственный сервер Vortex.",
+      "author": "Vortex",
+      "versionCode": 58,
+      "versionName": "1.7.12",
+      "size": 37656485,
+      "sha256": "eca9678f222526d8f6696fdf0044b96c733185339b177f1e47dd5d79e5e2545d",
+      "apk": "https://github.com/wwwmnl119-eng/vortex-store/releases/download/apks/site.vortexvpn.vortex-58.apk",
+      "icon": "icons/site.vortexvpn.vortex.png"
+    }
+  ]
+}
