@@ -179,7 +179,8 @@
       "size": 70358849,
       "sha256": "a995a057e655be77907f9ceec52953edd213c05050102e2924f29bf903e91e64",
       "apk": "https://telegram.org/dl/android/apk",
-      "source": "official site"
+      "source": "official site",
+      "icon": "icons/org.telegram.messenger.web.png"
     },
     {
       "package": "org.thunderdog.challegram",
